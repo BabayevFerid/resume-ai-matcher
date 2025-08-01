@@ -15,5 +15,4 @@ Bu layihə, verilən bir CV (PDF və ya mətn formasında) ilə vakansiya təsvi
 
 ---
 
-## 🏗 Layihə Arxitekturası
 
